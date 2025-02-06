@@ -2,7 +2,7 @@ package com.dp.creational_pattern.factory_method_pattern.demo_02;
 
 import java.io.IOException;
 
-public class GenerateBill {
+public class FactoryMethodPatternDemo {
 	public static void main(String[] args) throws IOException {
 		
 		GetPlanFactory planFactory = new GetPlanFactory();
