@@ -1,4 +1,4 @@
-package com.dp.behavioral_pattern.strategy_pattern;
+package com.dp.behavioral_design_pattern.strategy_pattern;
 
 
 // Strategy

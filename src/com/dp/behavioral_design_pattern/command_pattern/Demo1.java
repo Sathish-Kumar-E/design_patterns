@@ -1,4 +1,4 @@
-package com.dp.behavioral_pattern.command_pattern;
+package com.dp.behavioral_design_pattern.command_pattern;
 
 
 // Command Interface
